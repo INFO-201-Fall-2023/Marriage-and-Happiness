@@ -28,25 +28,30 @@ Background Research/Inspiration
 https://wealthofgeeks.com/why-men-dont-want-to-get-married/
 
 Compare: Marriage has changed over time, so it’s effect may also change
+
 Contrast: Marriage is deemed to be a hindrance (for social life, work, savings, etc.)
 
 https://www.bentley.edu/news/nowuknow-why-millennials-refuse-get-married
 
 Compare: Marriage has financial benefits (taxes) which can increase one’s satisfaction of life 
+
 Contrast: Millennials seem to be hesitant to marry due to threat of divorce, so marriage is seen as a threat instead of connecting it to something positive
 
 https://ifstudies.org/blog/does-marriage-really-make-us-healthier-and-happier 
 
 Compare: Talks about how marriage improves couples’ lifestyle (health)
+
 Contrast: Emphasizes that unfulfilling marriages can have the the opposite effect, where it can be worse
 
 https://www.webmd.com/healthy-aging/features/importance-of-marriage 
 
 Compare: Includes potential health benefits of marriage, which can make people happier (if they are not experiencing as much anxiety for example)
+
 Contrast: Concludes that it is not exactly marriage that is responsible for health benefits, but commitment
 
 https://www.psychologytoday.com/us/blog/talking-apes/202112/does-marriage-actually-make-people-happier 
 
 Compare: Article includes arguments as to how marriage can make people happier
+
 Contrast: Emphasizes that marriage doesn’t make women happier in the long-run as it can for men
 
