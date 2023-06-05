@@ -114,7 +114,7 @@ subTab1_mar <- tabPanel(
 
 Tab1 <- tabPanel(
   "Happiest Country",
-  selectInput(
+  radioButtons(
     inputId = "Guess1",
     label = "What country do you think is happiest?",
     choices = list("Latvia"=1,"Canada"=2,"Thailand"=3)
@@ -144,7 +144,7 @@ subTab2_hap <- tabPanel(
 
 Tab2 <- tabPanel(
   "Happiest Country",
-  selectInput(
+  radioButtons(
     inputId = "Guess2",
     label = "What country do you think has the highest marriage rate?",
     choices = list("Russia"=1,"Mongolia"=2,"Brazil"=3)
@@ -194,7 +194,7 @@ server <- function(input, output){
     }
   })
   
-
+#not all the countries are included as data limited
  
 }
 
