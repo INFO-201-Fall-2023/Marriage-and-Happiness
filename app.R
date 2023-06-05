@@ -139,7 +139,7 @@ subTab2_hap <- tabPanel(
   p("Their happiness score changes are quite high compared to the average of 0.06, a 6% increase.
   The lowest happiness score change of the 5 most-married countries is a 17.5% increase, still very high.
   Judging from just this perspective we could assume a weak correlation, but the previous conclusion
-  proved otherwise. It is still unclear.")
+  proved otherwise. It is still unclear. It's important to note that not all the countries are included as data limited")
 )
 
 Tab2 <- tabPanel(
@@ -193,8 +193,7 @@ server <- function(input, output){
       return("Not quite")
     }
   })
-  
-#not all the countries are included as data limited
+ 
  
 }
 
